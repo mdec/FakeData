@@ -2,11 +2,11 @@ module FakeData
 
     using DataFrames
 
-# package code goes here
-function genData(
-    obs::Int)
+    # package code goes here
+    function genData(
+        obs::Int)
 
 
-end
+    end
 
 end # module
